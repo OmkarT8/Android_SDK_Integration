@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity implements CTInboxListener{
                 profileUpdate.put("Email", email); // Email address of the user
                 profileUpdate.put("Phone", contact);   // Phone (with the country code, starting with +)
                 profileUpdate.put("Address",addr);
-                profileUpdate.put("DOB", dob);         // Date of Birth. Set the Date object to the appropriate value first
+                profileUpdate.put("DOB", new Date(dob));         // Date of Birth. Set the Date object to the appropriate value first
 
                 profileUpdate.put("MSG-email", false);        // Disable email notifications
                 profileUpdate.put("MSG-push", true);          // Enable push notifications
