@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "618309885091",
+    "firebase_url": "https://tam-ro-default-rtdb.firebaseio.com",
+    "project_id": "tam-ro",
+    "storage_bucket": "tam-ro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618309885091:android:0ba719b57560f7d3b4b316",
+        "android_client_info": {
+          "package_name": "com.example.ruben"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1bZ-ymYtztqa0R0l5lp_PU8UXGc_9Luc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618309885091:android:490468c47631a745b4b316",
+        "android_client_info": {
+          "package_name": "com.example.tam_ro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1bZ-ymYtztqa0R0l5lp_PU8UXGc_9Luc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity3">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="25dp"
+        android:text="Push Templates" />
+
+    <Button
+        android:id="@+id/btnBasicPush"
+        android:paddingBottom="18dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Basic Push" />
+    <Button
+        android:id="@+id/btnAutoCar"
+        android:paddingBottom="18dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Auto Carousel" />
+    <Button
+        android:id="@+id/btnManualCar"
+        android:paddingBottom="18dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Manual Carousel" />
+    <Button
+        android:id="@+id/btnRatingTemp"
+        android:paddingBottom="18dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rating Template" />
+    <Button
+        android:id="@+id/btnProductCat"
+        android:paddingBottom="18dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Product Catlog" />
+    <Button
+        android:id="@+id/btnFiveIcons"
+        android:paddingBottom="18dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Five Icons" />
+    <Button
+        android:id="@+id/btnTimerTemplate"
+        android:paddingBottom="18dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TimerTemplate" />
+    <Button
+        android:id="@+id/btnZeroBezel"
+        android:paddingBottom="18dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Zero Bezel" />
+    <Button
+        android:id="@+id/btnInputBox"
+        android:paddingBottom="18dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="InputBox" />
+
+</LinearLayout>
